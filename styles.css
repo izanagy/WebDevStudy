@@ -6,3 +6,8 @@ p {
   border:2px #ebebe0;
   padding:5px;
 }
+a:link{
+  color:green;
+  background-color:transparent;
+  text-decoration:none;
+}
